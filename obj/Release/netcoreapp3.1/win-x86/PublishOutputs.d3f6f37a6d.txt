@@ -1,0 +1,2 @@
+D:\UserFolder\Documents\Visual Studio 2019\Projects\ScreenSaverTest\bin\publish\ScreenSaverTest.pdb
+D:\UserFolder\Documents\Visual Studio 2019\Projects\ScreenSaverTest\bin\publish\ScreenSaverTest.exe

@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>sst.pfx</AssemblyOriginatorKeyFile>
+    <ApplicationIcon>scrT.ico</ApplicationIcon>
+    <Win32Resource />
+    <Company>Axisflow Corporation</Company>
+    <Version>1.0.0.2</Version>
+    <Authors>Axisflow</Authors>
+    <Description>Screen Saver Test</Description>
+    <Product>Screen.Saver.Test</Product>
+    <Copyright>© Axisflow Corporation. All rights reserved.</Copyright>
+    <PackageLicenseFile>Licenses.txt</PackageLicenseFile>
+    <PackageProjectUrl>https://www.axisflow.com/ScrT</PackageProjectUrl>
+    <PackageIcon>scrT.png</PackageIcon>
+    <PackageIconUrl />
+    <RepositoryUrl>https://www.axisflow.com/ScrT</RepositoryUrl>
+    <RepositoryType>Null</RepositoryType>
+    <PackageTags>[Mark]</PackageTags>
+    <AssemblyVersion>1.0.0.2</AssemblyVersion>
+    <FileVersion>1.0.0.2</FileVersion>
+    <PackageReleaseNotes>Build 1</PackageReleaseNotes>
+    <NeutralLanguage>zh-TW</NeutralLanguage>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Licenses.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="scrT.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

@@ -1,2 +1,2 @@
-# SampleScreenSaver
- A Sample ScreenSaver
+# SimpleScreenSaver
+ A Simple ScreenSaver
